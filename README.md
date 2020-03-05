@@ -1,3 +1,19 @@
+### Configuration
+
+Should set `.env` file 
+```
+HTTPS=true
+```
+It will be set localhost to https env virtually.
+```
+npm i --save react-facebook-login
+```
+This npm module is used to make facebook login sdk button.
+```
+npm run start
+```
+---------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
