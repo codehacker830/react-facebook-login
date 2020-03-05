@@ -1,0 +1,19 @@
+{
+    "name": "Yu Dong Wang",
+    "email": "myEmail@gmail.com",
+    "picture": {
+        "data": {
+            "height": 50,
+            "is_silhouette": false,
+            "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=150885946382328&height=50&width=50&ext=1585984626&hash=AeRkosi1KopmwkTm",
+            "width": 50
+        }
+    },
+    "id": "150885946382328",
+    "accessToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "userID": "150885946382328",
+    "expiresIn": 6175,
+    "signedRequest": "xxxxxxxxxF1KFesF-Ub-UKc.eyJ1c2VyX2lkIjoiMTUwODg1OTQ2MzgyMzI4IiwiY29kZSI6IkFRQ2ZvbUhraUpKVnk0SXpueUlnRXV4dTdKRHZINWRnT2pwOWlvY3FOUWw0bFFMajdlN0tsM3E1aVpHUEJFUEpVZ1ZuNnZVTk1qS3JLRGdpcHZ5d1JneXd1dms5REdodzlkOWZIX09SVll3LXJzS1M2NUxQLTRvckdnbzF2NmhpQTAxVnVGRWt3cDBRSWF4QWZxMU03UUNTTEFadkdkRDRtSVgxbFhiWThIZWFjM2tmTHM3VnBtVlRVOXJ5QVlvamNrVVhCSWtSU0VBci1PVTJxYUxsMHVoREpkZkpyclZIN0h1Y0JQZDI2WFdvUE5ud1BXd0d1QUJ2OW5JY2ZiZmpna0FRdFlSS012cXF0MGFEYmZYZ290em5IR01DdEwzemtELTF1NTJDbE80Vm9SblVCcnFfdmQ0SU5QM01qb2trc2V5SjU3czdLX3kwWmFnRXIyVlQ1T09FSXFSVHdCcW1IZ3NRck5jRHZYNUxUQSIsImFsZ29yaXRobSI6IkhNQUMtU0hBMjU2IiwiaXNzdWVkX2F0IjoxNTgzMzkyNjI1fQ",
+    "graphDomain": "facebook",
+    "data_access_expiration_time": 1591168625
+}
